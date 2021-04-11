@@ -11,16 +11,13 @@
       margin: 0;
     }
   </style>
-  <!-- <script src="p5.js"></script> -->
+  <script src="p5.js"></script>
   <!-- <script src="../addons/p5.sound.js"></script> -->
-  <!-- <script src="sketch.js"></script> -->
+  <script src="localMultiplayer.js"></script>
 </head>
 
 <body>
   <main>
-	<a href="/local-multiplayer.md">Play local multiplayer vs a friend!</a>
-	<br>
-	<a href="/random-bot.md">Play against a bot that plays randomly!</a>
   </main>
 </body>
 
